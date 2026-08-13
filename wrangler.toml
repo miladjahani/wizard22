@@ -1,0 +1,4 @@
+name = "miliconfig-wizard"
+main = "wizard.js"
+compatibility_date = "2026-07-10"
+compatibility_flags = ["nodejs_compat"]
